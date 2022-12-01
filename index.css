@@ -1,0 +1,34 @@
+body {
+    padding: 30px;
+}
+
+#downloadresume {
+    border: 1px solid black;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    cursor: pointer;
+}
+
+#downloadresume:hover {
+    color: white;
+    background-color: black;
+}
+
+.link_col {
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.link_design {
+    color: black;
+    text-decoration: none;
+}
+
+.tech_cell {
+    text-align: center;
+    border-radius: 20px;
+    background-color: #eee;
+    padding: 5px;
+    margin: 5px;
+}
